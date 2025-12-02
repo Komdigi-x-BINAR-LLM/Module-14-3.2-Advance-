@@ -20,7 +20,7 @@ Di modul ini, kita tidak fokus membuat model menjadi "pintar", tapi membuatnya "
 
 Klik *badge* di bawah untuk membuka *notebook* langsung di Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://[LINK_NOTEBOOK_ANDA])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hy89aTprVhxQS9BHef2FrKeWJgaiBR7v?usp=sharing)
 
 **Hasil yang Diharapkan:**
 Anda akan melihat bagaimana teks *"Halo Budi, NIK saya 3175..."* secara otomatis berubah menjadi *"Halo <PERSON>, NIK saya <US_SSN>..."* (atau entitas lain), siap untuk diproses dengan aman.
